@@ -1,4 +1,4 @@
-Jekyll Themes
+devJekyll Themes
 =============
 
 A directory of the best-looking themes for Jekyll blogs
